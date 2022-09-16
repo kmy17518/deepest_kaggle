@@ -6,8 +6,8 @@
 
 ### 학습/검증 로그
 
-![train_loss](resource/train_loss.png | width=100)
-![val_loss](resource/val_loss.png | width=100)
+![train_loss](resource/train_loss.png)
+![val_loss](resource/val_loss.png)
 
 ### 솔루션 설명
 
