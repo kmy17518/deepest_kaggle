@@ -6,7 +6,8 @@
 
 ### 학습/검증 로그
 
-![loss](resource/loss.png)
+![train_loss](resource/train_loss.png)
+![val_loss](resource/val_loss.png)
 
 ### 솔루션 설명
 
