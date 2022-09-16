@@ -2,7 +2,7 @@
 
 ### Kaggle에 제출한 submission의 캡쳐이미지
 
-![submission](resource/submission.png)
+![submission](resource/submission_1.png)
 
 > Cannot submit
 Your Notebook cannot use internet access in this competition. Please disable internet in the Notebook editor and save a new version.
@@ -10,8 +10,8 @@ Your Notebook uses non-versioned datasets [/soulmachine/pretrained-bert-models-f
 
 ### 학습/검증 로그
 
-![train_loss](resource/train_loss.png)
-![val_loss](resource/val_loss.png)
+![train_loss](resource/train_1.png)
+![val_loss](resource/val_1.png)
 
 ### 솔루션 설명
 
