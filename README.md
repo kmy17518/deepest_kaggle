@@ -23,7 +23,9 @@ DistilBERT로 특징을 추출한 뒤에는 CLS Token의 Last Hidden State를 Se
 
 ### 코드 재현 방법
 
-본 Notebook을 다운로드한 뒤 Kaggle에서 그대로 실행시켜주시면 됩니다.
+dbert-train.ipynb를 돌리면 state_list가 나옵니다.
+
+이 state_list와 공용 데이터 distilbert-base-uncased를 kaggle에 업로드 한 뒤, dbert-inference.ipynb를 실행시켜주시면 됩니다.
 
 ### 참고한 자료
 
