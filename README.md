@@ -2,11 +2,11 @@
 
 ### Kaggle에 제출한 submission의 캡쳐이미지
 
-[!submission](resource/submission.png)
+![submission](resource/submission.png)
 
 ### 학습/검증 로그
 
-[!loss](resource/loss.png)
+![loss](resource/loss.png)
 
 ### 솔루션 설명
 
