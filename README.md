@@ -4,6 +4,10 @@
 
 ![submission](resource/submission.png)
 
+> Cannot submit
+Your Notebook cannot use internet access in this competition. Please disable internet in the Notebook editor and save a new version.
+Your Notebook uses non-versioned datasets [/soulmachine/pretrained-bert-models-for-pytorch] (see Dataset Settings).
+
 ### 학습/검증 로그
 
 ![train_loss](resource/train_loss.png)
