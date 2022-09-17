@@ -2,7 +2,7 @@
 
 ### Kaggle에 제출한 submission의 캡쳐이미지
 
-![submission](resource/submission_1.png)
+![submission](resource/submission_2.png)
 
 > Cannot submit
 Your Notebook cannot use internet access in this competition. Please disable internet in the Notebook editor and save a new version.
